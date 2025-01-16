@@ -1,4 +1,4 @@
 User-agent: nanatsu234
 Disallow: /private/
 Allow: /public/
-sitemap: https://nanatsu234.github.io/Feritail234.github.io/sitmap.xml
+sitemap: https://nanatsu234.github.io/Feritail234.github.io/sitemap.xml
